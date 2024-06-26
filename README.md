@@ -42,6 +42,7 @@ You can install these libraries using pip:
 
 ```bash
 pip install selenium beautifulsoup4 pandas notebook
+```
 
 
 ### Notes
